@@ -1,0 +1,6 @@
+
+{
+  "name": "RBT Academy - Employee Learning Platform",
+  "description": "A comprehensive corporate training platform for sales personnel at RBT.RU featuring AI-driven dialogue simulations, gamified modules, and progress tracking.",
+  "requestFramePermissions": ["microphone"]
+}
